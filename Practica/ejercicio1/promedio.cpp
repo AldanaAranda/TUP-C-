@@ -22,6 +22,6 @@ int main(){
 
     cout << "El porcentaje de nenes en el curso es: " << totalNenes << endl;
     cout << "El porcentaje de nenas en el curso es: " << totalNenas << endl;
-    
+
     return 0;
 }
